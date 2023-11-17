@@ -7,3 +7,8 @@ console.log(pi);
 // ERRORE
 // pi = 31416
 // console.log(pi)
+
+let radius = 8;
+let circle = radius * 2 * pi;
+console.log(circle)
+
