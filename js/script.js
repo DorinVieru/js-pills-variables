@@ -26,5 +26,15 @@ let greet = "Ciao Mondo!";
 console.log(greet);
 
 // ESERCIZIO 4/B
-let greet = "Come stai, Mondo?"
-console.group(greet);
+// ERRORE
+// let greet = "Come stai, Mondo?"
+// console.log(greet);
+
+// ESERCIZIO 4/C
+// METODO 1
+// greet = `${greet} Come stai?`;
+// console.log(greet);
+
+// METODO 2
+greet = greet+" "+"Come stai?";
+console.log(greet);
