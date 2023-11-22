@@ -38,3 +38,48 @@ console.log(greet);
 // METODO 2
 greet = greet+" "+"Come stai?";
 console.log(greet);
+
+
+// ESERCIZIO 5
+let num_a = 8;
+let num_b = 4;
+
+let comparison;
+
+if (num_a > num_b){
+    comparison = num_a;
+}
+else{
+    comparison = num_b;
+}
+
+console.log(comparison);
+
+// ESERCIZIO 6
+let string_a = 8;
+let string_b = 4;
+
+let comparison_2;
+
+if (num_a === num_b) {
+    comparison_2 = "Le stringhe sono uguali";
+}
+else {
+    comparison_2 = "Le stringhe sono diverse";
+}
+
+console.log(comparison_2);
+
+// ESERCIZIO 7
+let valore_1 = 8;
+
+let comparison_3 = true;
+
+if (valore_1 == "8") {
+    comparison_3 = true;
+}
+else {
+    comparison_3 = false;
+}
+
+console.log(comparison_3);
