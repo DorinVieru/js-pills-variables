@@ -50,5 +50,18 @@ Definisci un array contenente le stringhe che seguono e memorizzalo nella costan
 ```
 mela, banana, pesca, pera, albicocca, mango, kiwi, papaya
 ```
+
 **Esercizio 8/E**  
 Stampa in console il numero di elementi che costituiscono l'array `fruits`
+
+**Esercizio 9/A**
+
+1. Chiedi all'utente un numero intero e memorizzalo nella costante numOfElements
+2. Crea un array numbers e riempilo con i numeri interi da 1 a numOfElements
+3. Stampa in console l'array numbers e il numero di elementi di cui si compone
+
+**Esercizio 9/B**
+Calcola la somma di tutti i numeri presenti nell'array numbers dell'esercizio 9/A
+
+**Esercizio 9/C**
+Trova il valore massimo di tutti i numeri presenti nell'array numbers dell'esercizio 9/A
