@@ -93,3 +93,11 @@ for (let i=1; i<=42; i++){
 for (let i=42; i>=1; i--) {
     console.log(i);
 }
+
+// ESERCIZIO 8/C
+const numbers = [1,2,4,5,6,7,8,9]
+console.log(numbers);
+
+// ESERCIZIO 8/D
+const fruits = ["mela", "banana", "pesca", "albicocca", "mango", "papaya", "kiwi"]
+console.log(fruits);
