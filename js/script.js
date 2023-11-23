@@ -101,3 +101,6 @@ console.log(numbers);
 // ESERCIZIO 8/D
 const fruits = ["mela", "banana", "pesca", "albicocca", "mango", "papaya", "kiwi"]
 console.log(fruits);
+
+// ESERCIZIO 8/E
+console.log(fruits.length)
