@@ -65,3 +65,9 @@ Calcola la somma di tutti i numeri presenti nell'array numbers dell'esercizio 9/
 
 **Esercizio 9/C**
 Trova il valore massimo di tutti i numeri presenti nell'array numbers dell'esercizio 9/A
+
+**Esercizio 10**
+Definire una funzione che stampi la stringa 'Ciao Mondo'
+
+**Esercizio 10/B**
+Richiamare la funzione definita prima
