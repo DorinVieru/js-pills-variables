@@ -71,3 +71,15 @@ Definire una funzione che stampi la stringa 'Ciao Mondo'
 
 **Esercizio 10/B**
 Richiamare la funzione definita prima
+
+**Esercizio 11**
+Definire una funzione che accetti due numeri in input, ne faccia la somma e la restituisca
+
+**Esercizio 11/B**
+Chiamare la funzione che esegue la somma, assegnare il valore che restituisce ad una variabile e mostrare il risultato
+
+**Esercizio 12**
+Dichiara una funzione chiamata getOneStringFromTwo che prenda come argomenti due stringhe e ritorni come un'unica stringa formata dalle due stringhe separate da uno spazio.
+
+**Esercizio 12/B**
+Invoca la funzione dichiarata nell'esercizio 1/A passandole due stringhe a piacere e stampa in console la stringa ottenuta.

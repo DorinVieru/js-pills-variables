@@ -144,9 +144,32 @@
 // console.log(maggiore);
 
 // ESERCIZIO 10
-function ciao_mondo(){
-    alert("Ciao Mondo");
+// function ciao_mondo(){
+//     alert("Ciao Mondo");
+// }
+
+// // ESERCIZIO 10/B
+// ciao_mondo();
+
+// // ESERCIZIO 11
+// function numbers (one, two){
+//     let sum = one + " " + two;
+//     return sum;
+
+//     // return one + two; SECONDO METODO
+// }
+
+// // ESERCIZIO 11/B
+// let one = parseInt(prompt("Inserisci un numero"));
+// let two = parseInt(prompt("Inserisci un secondo numero"));
+
+// let sum = numbers(one + two);
+// console.log(sum);
+
+// ESERCIZIO 12
+function getOneStringFromTwo(first, second){
+    return first + " " + second;
 }
 
-// ESERCIZIO 10/B
-ciao_mondo();
+// ESERCIZIO 12/B
+console.log(getOneStringFromTwo("ciao", "bello"));
