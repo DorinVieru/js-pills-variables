@@ -173,3 +173,14 @@ function getOneStringFromTwo(first, second){
 
 // ESERCIZIO 12/B
 console.log(getOneStringFromTwo("ciao", "bello"));
+
+// ESERCIZIO 13
+setTimeout (function(){
+    alert("Ciao a tutti");
+}, 3000)
+
+// ESERCIZIO 14
+let i=0;
+setInterval(function(){
+    console.log(i++);
+}, 1000)
