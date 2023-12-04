@@ -184,3 +184,12 @@ let i=0;
 setInterval(function(){
     console.log(i++);
 }, 1000)
+
+// ESERCIZIO 15
+let persona = {
+    nome: "Dorin",
+    cognome: "Vieru",
+}
+
+// ESERCIZIO 15/B
+console.log(persona.nome);
